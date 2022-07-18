@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleTCPIP.iml" filepath="$PROJECT_DIR$/SimpleTCPIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/SimpleTcp/SimpleTcp.iml" filepath="$PROJECT_DIR$/src/SimpleTcp/SimpleTcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/SimpleTcpWithThread/SimpleTcpWithThread.iml" filepath="$PROJECT_DIR$/src/SimpleTcpWithThread/SimpleTcpWithThread.iml" />
+    </modules>
+  </component>
+</project>
