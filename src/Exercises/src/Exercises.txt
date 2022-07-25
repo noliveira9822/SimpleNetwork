@@ -16,4 +16,4 @@ Bonus Example 2b:
 - Client connects to the Server and is asked to guess a number from 1 to 20.
 - All Clients are going after the same number.
 - Clients try to guess a number as long as the number has not been guessed yet.
-- Once one of the Clients guesses the secret number, all other Clients can't guess anymore. Insted, the next time they send their guess, they're told that the number is already out.
+- Once one of the Clients guesses the secret number, all other Clients can't guess anymore. Instead, the next time they send their guess, they're told that the number is already out.
