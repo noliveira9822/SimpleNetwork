@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/src/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/src/Exercises/Exercises.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SimpleTCPIP.iml" filepath="$PROJECT_DIR$/SimpleTCPIP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SimpleTcp/SimpleTcp.iml" filepath="$PROJECT_DIR$/src/SimpleTcp/SimpleTcp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/src/SimpleTcpWithThread/SimpleTcpWithThread.iml" filepath="$PROJECT_DIR$/src/SimpleTcpWithThread/SimpleTcpWithThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/TCP/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/src/TCP/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple Network.iml" filepath="$PROJECT_DIR$/Simple Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/TCP/SimpleTcp/SimpleTcp.iml" filepath="$PROJECT_DIR$/src/TCP/SimpleTcp/SimpleTcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/TCP/SimpleTcpWithThread/SimpleTcpWithThread.iml" filepath="$PROJECT_DIR$/src/TCP/SimpleTcpWithThread/SimpleTcpWithThread.iml" />
     </modules>
   </component>
 </project>
